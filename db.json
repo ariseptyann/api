@@ -1,0 +1,24 @@
+{
+  "negara": [
+    {
+      "id": 0,
+      "name": "indonesia"
+    },
+    {
+      "id": 1,
+      "name": "malaysia"
+    },
+    {
+      "name": "serena",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "wakanda"
+    },
+    {
+      "name": "Bogor",
+      "id": 5
+    }
+  ]
+}
